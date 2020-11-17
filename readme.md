@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#669933">pinap : project is not a project</h1>
+#pinap : project is not a project
 > Simulation d'un projet pour voir
 
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
@@ -10,3 +10,6 @@
 |- [x] 0 | 1 | 2 | 3 |
 
 + [x]
+<style> 
+h1,h2,h3,h4,h5,h6{text-align: center;}
+</style>
