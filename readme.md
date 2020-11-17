@@ -4,8 +4,8 @@
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 
 ![pinap logo](pinap.png)
-<p align="center">
+<span align="center">
 | 123456 | 123456 | 123456 | 123456 |
 |:-|:-:|-:|-|
 | 1 | 2 | 3 | 4|
-</p>
+</span>
