@@ -4,3 +4,12 @@
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 
 ![pinap logo](pinap.png)
+
+| 1 | 2 | 3 |
+|-|-|-|
+| 1 | 2 |3 |
+
+| 1 | 2 | 3 |
+| * | * | * |
+|-|-|-|
+| 1 | 2 |3 |
