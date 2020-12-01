@@ -7,15 +7,15 @@
 ! ok
 @@ ok @@
 # ok
-ok --ok-- {--ok--}
 ` ` `
 ```
+ ~~ok~~
 ```css
 * {
 display:none !important;
 }
 ```
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] @mentions, #refs, [links](), **formatting**, and ~~tags~~ supported
 
 ![pinap logo](pinap.png)
 
