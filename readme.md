@@ -1,27 +1,34 @@
 # pinap : project is not a project
-> test
+> test :+1:
 ```diff
 ` ` `diff
-- ok
-+ ok
-! ok
-@@ ok @@
-# ok
-ok --ok-- {--ok--}
+- blabla
++ blabla
+! blabla
+@@ blabla @@
+# blabla
 ` ` `
 ```
 ```css
+` ` `css
 * {
-display:none !important;
+display: none !important;
 }
+` ` `
 ```
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] blabla
+- [ ] blabla
+
+[links]()
+
+** *blabla* **blabla**
+
+__ _blabla_ __blabla__
+
+~~ ~~blabla~~
 
 ![pinap logo](pinap.png)
 
 |123456 | 123456 | 123456 | 123456 |
 :-|:-:|-:|-|
 | 0 | 1 | 2 | 3 |
-
-- [ ] 
-- [x] 
